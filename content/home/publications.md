@@ -41,5 +41,4 @@ design:
   view: citation
   columns: '2'
   
-  page_type = "publication"_
 ---

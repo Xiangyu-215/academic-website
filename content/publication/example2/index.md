@@ -1,22 +1,20 @@
 ---
-title: "Predicting users' continued engagement in online health communities from the quantity and quality of received support"
+title: "Predicting Users' Continued Engagement in Online Health Communities from the Quantity and Quality of Received Support"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Andrew High
+- Xi Wang
 - Kang Zhao
-- Xun Zhou
-- Nick Street
 
 
 
-date: "2020-07-21T00:00:00Z"
-doi: "https://doi.org/10.1145/3383780"
+date: "2020-12-03T00:00:00Z"
+doi: "https://doi.org/10.1002/asi.24436"
 
-# Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,12 +23,12 @@ doi: "https://doi.org/10.1145/3383780"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ACM Transactions on Management Information Systems*
+publication: In *Journal of the Association for Information Science and Technology*
 # publication_short: In *ACM TMIS*
 
-abstract: Online health communities (OHCs) represent a great source of social support for patients and their caregivers. Better predictions of user activities in OHCs can help improve user engagement and retention, which are important to manage and sustain a successful OHC. This article proposes a general framework to predict OHC user posting activities. Deep learning methods are adopted to learn from users’ temporal trajectories in both the volumes and content of posts published over time. Experiments based on data from a popular OHC for cancer survivors demonstrate that the proposed approach can improve the performance of user activity predictions. In addition, several topics of users’ posts are found to have strong impact on predicting users’ activities in the OHC.
+abstract: Online health communities (OHCs) have been major resources for people with similar health concerns to interact with each other. They offer easily accessible platforms for users to seek, receive, and provide supports by posting. Taking the advantage of text mining and machine learning techniques, we identified social support type(s) in each post and a new user's support needs in an OHC. We examined a user's first‐time support‐seeking experience by measuring both quantity and quality of received support. Our results revealed that the amount and match of received support are positive and significant predictors of new users' continued engagement. Our outcomes can provide insight for designing and managing a sustainable OHC by retaining users.
 
-tags: [predictive model, trajectory mining, text analytics, user churn]
+tags: [social support, support match, text mining, user engagement]
 
 # Display this page in the Featured widget?
 featured: true

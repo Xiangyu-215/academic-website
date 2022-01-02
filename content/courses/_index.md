@@ -10,7 +10,7 @@ header:
 image:
   image_position: center
   placement: 1
-  #caption: 'Thank you letter from my student'
+  #caption: '[**Thank you letter from my student**]'
 ---
 
 Graduate Teaching Assistant，Tippie College of Business, University of Iowa

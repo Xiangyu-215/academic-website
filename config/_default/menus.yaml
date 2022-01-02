@@ -14,8 +14,8 @@ main:
   #- name: Projects
   #  url: '#projects'
   #  weight: 30
-  #- name: CV
-  #  url: https://www.dropbox.com/s/d3uj71s1okbbmvr/CV_Xiangyu_Wang.pdf?dl=0
+  - name: CV
+    url: uploads/CV_Xiangyu_Wang.pdf
   #  weight: 70
   #- name: Research
   #  url: '/#publications'

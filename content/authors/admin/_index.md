@@ -11,7 +11,7 @@ role: Ph.D. candidate in Information Science
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Iowa
-  url: https://cs.uiowa.edu/informatics
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -68,7 +68,7 @@ email: "xiangyu-wang-1@uiowa.edu"
 highlight_name: true
 ---
 
-I am a 5th-year Ph.D. Candidate in Information Science at the University of Iowa, under the supervision of {{< staticref "https://tippie.uiowa.edu/people/kang-zhao" "newtab" >}} Dr. Kang Zhao {{< /staticref >}}. I am on the 2021/2022 academic job market.
+I am a 5th-year Ph.D. Candidate in {{< staticref "https://cs.uiowa.edu/informatics" "newtab" >}}Information Science{{< /staticref >}} at the University of Iowa, under the supervision of {{< staticref "https://tippie.uiowa.edu/people/kang-zhao" "newtab" >}}Dr. Kang Zhao{{< /staticref >}}. I am on the 2021/2022 academic job market.
 
 My research focuses on data analytics for social media. My current research not only analyzes users’ online behaviors in various types of social media, but also attempts to connect their online and offline behaviors. I cover both special-purpose social media (e.g., online health communities) as well as general-purpose social media (e.g., Twitter).
 

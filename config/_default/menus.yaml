@@ -7,6 +7,11 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+
+
+  -name = "Research"  # Title of the link.
+  url = "research/"  # Widget Page folder name.
+  weight = 2  # Position of the link in the navigation bar.
   #- name: Posts
   #  url: '#posts'
   #  weight: 20

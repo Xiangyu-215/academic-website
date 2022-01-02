@@ -10,7 +10,7 @@ header:
 image:
   image_position: center
 
-  caption: '**A thank you letter from a student**'
+  caption: '**A thank you letter from my student**(https://www.dropbox.com/home?preview=thank+you.jpg)'
 ---
 
 Graduate Teaching Assistant, Tippie College of Business, University of Iowa

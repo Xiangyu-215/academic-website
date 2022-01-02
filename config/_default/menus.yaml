@@ -17,10 +17,10 @@ main:
   #  url: https://www.dropbox.com/s/d3uj71s1okbbmvr/CV_Xiangyu_Wang.pdf?dl=0
   #  weight: 70
   - name: Research
-    url: '#publications'
+    url: '/#publications'
     weight: 60
   - name: Teaching
-    url: '#courses'
+    url: '/#courses'
     weight: 100
   #- name: Contact
   #  url: '#contact'

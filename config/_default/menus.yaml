@@ -17,9 +17,9 @@ main:
   - name: CV
     url: uploads/CV_Xiangyu_Wang.pdf
   #  weight: 70
-  #- name: Research
-  #  url: '/#publications'
-  #  weight: 50
+  - name: Research
+    url: '/#publications'
+    weight: 50
  # - name: Teaching
  #   url: courses/
  #   weight: 60

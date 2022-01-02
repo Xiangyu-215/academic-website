@@ -7,31 +7,34 @@ superuser: true
 
 # Role/position/tagline
 role: Ph.D. candidate in Information Science
+url: https://cs.uiowa.edu/informatics
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Iowa
-  url:
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Data Mining
+- Data Science
 - Predictive Modeling
+- Text Mining
+- Social Network Analytics
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. in Information Science
-    institution: Interdisciplinary Graduate Program in Informatics, University of Iowa
+    institution: University of Iowa
     year: 2022 (expected)
   - course: M.S. in Management Science and Engineering
-    institution: School of Economics and Management, Beihang University
+    institution: Beihang University
     year: 2017
   - course: B.E. in Information Management and Information System
-    institution: School of Management, Jilin University
+    institution: Jilin University
     year: 2014
 
 # Social/Academic Networking
@@ -41,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: xiangyu-wang-1@uiowa.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/XiangyuWang18
@@ -66,5 +69,8 @@ email: "xiangyu-wang-1@uiowa.edu"
 highlight_name: true
 ---
 
-I am a 5th-year Ph.D. Candidate in Information Science at the University of Iowa. My research focuses on data analytics for social media. I have applied text mining, regression models and machine learning to address real-world analytics problems. My current research not only analyzes users’ online behaviors in various types of social media, but also attempts to connect their online and offline behaviors. I cover both special-purpose social media (e.g., online health communities) as well as general-purpose social media (e.g., Twitter).
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://www.dropbox.com/s/d3uj71s1okbbmvr/CV_Xiangyu_Wang.pdf?dl=0" "newtab" >}}resumé{{< /staticref >}}.
+I am a 5th-year Ph.D. Candidate in Information Science at the University of Iowa, under the supervision of {{< staticref "https://tippie.uiowa.edu/people/kang-zhao" "newtab" >}} Dr. Kang Zhao {{< /staticref >}}. I am on the 2021/2022 academic job market.
+
+My research focuses on data analytics for social media. My current research not only analyzes users’ online behaviors in various types of social media, but also attempts to connect their online and offline behaviors. I cover both special-purpose social media (e.g., online health communities) as well as general-purpose social media (e.g., Twitter).
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://www.dropbox.com/s/d3uj71s1okbbmvr/CV_Xiangyu_Wang.pdf?dl=0" "newtab" >}}CV{{< /staticref >}}.

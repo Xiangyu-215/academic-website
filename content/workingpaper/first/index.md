@@ -26,7 +26,7 @@ authors:
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *WITS2021*
+#publication: In *WITS2021*
 # publication_short: In *ACM TMIS*
 
 abstract: 

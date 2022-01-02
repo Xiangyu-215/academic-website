@@ -62,7 +62,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "xiangyu-wang-1@uiowa.edu"
+# email: "xiangyu-wang-1@uiowa.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -72,4 +72,4 @@ I am a 5th-year Ph.D. Candidate in {{< staticref "https://cs.uiowa.edu/informati
 
 My research focuses on data analytics for social media. My current research not only analyzes users’ online behaviors in various types of social media, but also attempts to connect their online and offline behaviors. I cover both special-purpose social media (e.g., online health communities) as well as general-purpose social media (e.g., Twitter).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://www.dropbox.com/s/d3uj71s1okbbmvr/CV_Xiangyu_Wang.pdf?dl=0" "newtab" >}}CV{{< /staticref >}}.
+For more information, please refer to my {{< staticref "https://www.dropbox.com/s/d3uj71s1okbbmvr/CV_Xiangyu_Wang.pdf?dl=0" "newtab" >}}CV{{< /staticref >}}, Research, and Teaching.

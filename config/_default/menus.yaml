@@ -16,9 +16,9 @@ main:
   #- name: CV
   #  url: https://www.dropbox.com/s/d3uj71s1okbbmvr/CV_Xiangyu_Wang.pdf?dl=0
   #  weight: 70
-  - name: Research
-    url: '/#publications'
-    weight: 50
+  #- name: Research
+  #  url: '/#publications'
+  #  weight: 50
  # - name: Teaching
  #   url: courses/
  #   weight: 60

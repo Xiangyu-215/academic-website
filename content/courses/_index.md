@@ -12,10 +12,8 @@ image:
   placement: 1
   #caption: 'Thank you letter from my student'
 ---
-{{< figure src="featured.jpg" >}}
-Graduate Teaching Assistant
 
-Tippie College of Business, University of Iowa
+Graduate Teaching Assistant，Tippie College of Business, University of Iowa
 
 **BAIS: 2800 Foundations of Business Analytics**, Fall 2021
 

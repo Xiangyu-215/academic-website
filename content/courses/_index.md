@@ -9,4 +9,4 @@ header:
   image: ""
 ---
 
-I teach the following courses:
+I lead discussion sections for the following courses:

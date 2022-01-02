@@ -10,10 +10,10 @@ header:
 image:
   image_position: center
 
-  caption: '**Thank you letter from a student**'
+  caption: '**A thank you letter from a student**'
 ---
 
-Graduate Teaching Assistant，Tippie College of Business, University of Iowa
+Graduate Teaching Assistant, Tippie College of Business, University of Iowa
 
 
 **{{< staticref "https://myui.uiowa.edu/my-ui/courses/dashboard.page?q.sun=false&q.distanceEd=false&q.onlyOpen=false&q.endTime=&q.wed=false&q.onIcn=false&q.gis=&q.arrangedTime=false&q.sat=false&q.genEd=&q.startTime=&q.wk8=false&q.wk6=false&q.wk3=false&q.courseNumber=2800&q.academicUnitId=&q.saturdayAndEvening=false&q.mon=false&q.courseSubject=BAIS&q.tue=false&q.thu=false&q.sessionId=88&q.onWeb=false&q.learningCenter=&q.courseType=&q.sectionNumber=&q.fri=false&q.offcycle=false&showResults=1" "newtab" >}}BAIS: 2800 Foundations of Business Analytics{{< /staticref >}}**, Fall 2021
@@ -21,9 +21,9 @@ Graduate Teaching Assistant，Tippie College of Business, University of Iowa
 - Develop short lecture for the discussions
 - Teaching Evaluations: 5.6/6.0(median)
 
-**BAIS: 3000 Operations Management**, Spring 2022
+**{{< staticref "https://myui.uiowa.edu/my-ui/courses/dashboard.page?q.sun=false&q.distanceEd=false&q.onlyOpen=false&q.endTime=&q.wed=false&q.onIcn=false&q.gis=&q.arrangedTime=false&q.sat=false&q.genEd=&q.startTime=&q.wk8=false&q.wk6=false&q.wk3=false&q.courseNumber=3000&q.academicUnitId=&q.saturdayAndEvening=false&q.mon=false&q.courseSubject=BAIS&q.tue=false&q.thu=false&q.sessionId=91&q.onWeb=false&q.learningCenter=&q.courseType=&q.sectionNumber=&q.fri=false&q.offcycle=false&showResults=1" "newtab" >}}BAIS: 3000 Operations Management{{< /staticref >}}**, Spring 2022
 
-**BAIS: 3005 Information Systems**, Spring 2022
+**{{< staticref "https://myui.uiowa.edu/my-ui/courses/dashboard.page?q.sun=false&q.distanceEd=false&q.onlyOpen=false&q.endTime=&q.wed=false&q.onIcn=false&q.gis=&q.arrangedTime=false&q.sat=false&q.genEd=&q.startTime=&q.wk8=false&q.wk6=false&q.wk3=false&q.courseNumber=3005&q.academicUnitId=&q.saturdayAndEvening=false&q.mon=false&q.courseSubject=BAIS&q.tue=false&q.thu=false&q.sessionId=91&q.onWeb=false&q.learningCenter=&q.courseType=&q.sectionNumber=&q.fri=false&q.offcycle=false&showResults=1" "newtab" >}}BAIS: 3005 Information Systems{{< /staticref >}}**, Spring 2022
 
 **Student Comments**
 - I think that Ms. Wang is a wonderful person and instructor. Thank you for an awesome semester and I hope you have a great rest of your school year!

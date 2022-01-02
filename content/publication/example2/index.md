@@ -30,7 +30,6 @@ abstract: Online health communities (OHCs) have been major resources for people 
 
 tags: [social support, support match, text mining, user engagement]
 
-url_pdf: example.pdf
 
 # Display this page in the Featured widget?
 featured: true

@@ -21,8 +21,8 @@ Tippie College of Business, University of Iowa
 
 {{< figure src="featured.jpg" >}}
 
-{{< toc hide_on="xl" >}}
 
-**Student Comments"
+
+**Student Comments**
 
 - Led lab discussion sessions twice a week

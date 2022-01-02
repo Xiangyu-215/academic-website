@@ -32,7 +32,7 @@ publication_types: ["3"]
 abstract: 
 When starting a new online community, a useful practice is to recruit “seed users” to create content and encourage participation from community members. However, in the context of online health communities (OHCs), where users with similar health concerns interact, the impact of interacting with seed users on members’ health outcomes remains unknown. Using data from an OHC for smoking cessation, we found that support from seed users predicts member abstinence. In addition, seed users who were former smokers were more effective in supporting others to quit. Text analytics also revealed differences between the support provided by seed users who were former smokers vs. current smokers. Outcomes of this study can aid the design of a supportive OHC and the promotion of smoking cessation.
 
-tags: [social support, seeding community, smoking cessation, text analytics]
+#tags: [social support, seeding community, smoking cessation, text analytics]
 
 # Display this page in the Featured widget?
 featured: true

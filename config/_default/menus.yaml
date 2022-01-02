@@ -7,24 +7,25 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
+  #- name: Posts
+  #  url: '#posts'
+  #  weight: 20
+  #- name: Projects
+  #  url: '#projects'
+  #  weight: 30
+  - name: Publications
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: Teaching
     url: '#featured'
     weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
+  #- name: Contact
+  #  url: '#contact'
+  #  weight: 60
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: CV
+    url: https://www.dropbox.com/s/d3uj71s1okbbmvr/CV_Xiangyu_Wang.pdf?dl=0
+    weight: 70

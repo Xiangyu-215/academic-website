@@ -20,13 +20,17 @@ main:
   - name: Research
     url: '/#publications'
     weight: 50
+
+  - name: Research
+    url: '/#workingpaper'
+    weight: 55
  # - name: Teaching
  #   url: courses/
  #   weight: 60
   #- name: Contact
   #  url: '#contact'
   #  weight: 60
-  - name: Courses
+  - name: Teaching
     url: courses/
     weight: 60
 

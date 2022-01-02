@@ -18,10 +18,10 @@ main:
   #  weight: 70
   - name: Research
     url: '/#publications'
-    weight: 60
+    weight: 50
   - name: Teaching
-    url: '/#courses'
-    weight: 100
+    url: courses/
+    weight: 60
   #- name: Contact
   #  url: '#contact'
   #  weight: 60

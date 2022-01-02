@@ -18,7 +18,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Data Science
+- Data Mining
 - Predictive Modeling
 - Text Mining
 - Social Network Analytics

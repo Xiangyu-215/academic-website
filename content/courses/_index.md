@@ -8,10 +8,11 @@ header:
   caption: ""
   
 image:
-  placement: 3
-  caption: 'Image credit: Thank you letter from a student ({{< figure src="featured.jpg" >}})'
+  image_position: center
+  placement: 1
+  caption: 'Thank you letter from my student'
 ---
-
+# ({{< figure src="featured.jpg" >}})
 Graduate Teaching Assistant
 
 Tippie College of Business, University of Iowa

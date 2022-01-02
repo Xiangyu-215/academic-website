@@ -30,7 +30,7 @@ publication: In *ACM Transactions on Management Information Systems*
 
 abstract: Online health communities (OHCs) represent a great source of social support for patients and their caregivers. Better predictions of user activities in OHCs can help improve user engagement and retention, which are important to manage and sustain a successful OHC. This article proposes a general framework to predict OHC user posting activities. Deep learning methods are adopted to learn from users’ temporal trajectories in both the volumes and content of posts published over time. Experiments based on data from a popular OHC for cancer survivors demonstrate that the proposed approach can improve the performance of user activity predictions. In addition, several topics of users’ posts are found to have strong impact on predicting users’ activities in the OHC.
 
-tags: [Predictive model, trajectory mining, text analytics, user churn]
+tags: [predictive model, trajectory mining, text analytics, user churn]
 
 # Display this page in the Featured widget?
 featured: true

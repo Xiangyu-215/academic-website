@@ -13,10 +13,10 @@ main:
   #- name: Projects
   #  url: '#projects'
   #  weight: 30
-  - name: CV
-    url: https://www.dropbox.com/s/d3uj71s1okbbmvr/CV_Xiangyu_Wang.pdf?dl=0
-    weight: 70
-  - name: Publications
+  #- name: CV
+  #  url: https://www.dropbox.com/s/d3uj71s1okbbmvr/CV_Xiangyu_Wang.pdf?dl=0
+  #  weight: 70
+  - name: Research
     url: '#publications'
     weight: 40
   - name: Teaching

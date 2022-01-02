@@ -6,13 +6,12 @@ title: Xiangyu Wang
 superuser: true
 
 # Role/position/tagline
-- role: Ph.D. candidate in Information Science
-  url: https://cs.uiowa.edu/informatics
+role: Ph.D. candidate in Information Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Iowa
-  url: 
+  url: https://cs.uiowa.edu/informatics
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.

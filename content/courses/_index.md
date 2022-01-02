@@ -6,7 +6,10 @@ view: 2
 
 header:
   caption: ""
-  image: ""
+  
+image:
+  placement: 3
+  caption: 'Image credit: Thank you letter from a student ({{< figure src="featured.jpg" >}})'
 ---
 
 Graduate Teaching Assistant
@@ -19,7 +22,7 @@ Tippie College of Business, University of Iowa
 - Develop short lecture for the discussions
 - Teaching Evaluations: 5.6/6.0(median)
 
-{{< figure src="featured.jpg" >}}
+
 
 
 

@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: xiangyu-wang-1@uiowa.edu
+  link: mailto:xiangyu-wang-1@uiowa.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/XiangyuWang18

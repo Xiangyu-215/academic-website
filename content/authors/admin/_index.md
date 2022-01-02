@@ -6,8 +6,8 @@ title: Xiangyu Wang
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate in Information Science
-url: https://cs.uiowa.edu/informatics
+- role: Ph.D. candidate in Information Science
+  url: https://cs.uiowa.edu/informatics
 
 # Organizations/Affiliations to show in About widget
 organizations:

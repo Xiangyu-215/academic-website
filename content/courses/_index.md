@@ -1,6 +1,6 @@
 ---
 title: Courses
-type: page
+cms_exclude: true
 
 view: 2
 

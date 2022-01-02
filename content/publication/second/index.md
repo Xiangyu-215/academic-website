@@ -30,6 +30,7 @@ abstract: Online health communities (OHCs) have been major resources for people 
 
 tags: [social support, support match, text mining, user engagement]
 
+url_pdf: https://www.dropbox.com/s/qcys4x5l0hgfbxs/Paper1-Predicting%20users%27%20continued%20engagement%20in%20online%20health%20communities%20from%20the%20quantity%20and%20quality%20of%20received%20support.pdf?dl=0
 
 # Display this page in the Featured widget?
 featured: true

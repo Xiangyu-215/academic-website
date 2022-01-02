@@ -11,8 +11,9 @@ main:
 
 
   - name = "research"  # Title of the link.
-  url = "/#research"  # Widget Page folder name.
-  weight = 2  # Position of the link in the navigation bar.
+  url = "#research"  # Widget Page folder name.
+  weight = 20  # Position of the link in the navigation bar.
+
   #- name: Posts
   #  url: '#posts'
   #  weight: 20

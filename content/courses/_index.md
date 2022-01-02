@@ -10,7 +10,7 @@ header:
 image:
   image_position: center
 
-  caption: 'Image credit: [**A thank you letter from my student**](https://www.dropbox.com/home?preview=thank+you.jpg)'
+  caption: 'Image credit: [**A thank you letter from my student**]'
 
 ---
 

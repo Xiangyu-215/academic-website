@@ -70,6 +70,6 @@ highlight_name: true
 
 I am a 5th-year Ph.D. Candidate in {{< staticref "https://cs.uiowa.edu/informatics" "newtab" >}}Information Science{{< /staticref >}} at the University of Iowa, under the supervision of {{< staticref "https://tippie.uiowa.edu/people/kang-zhao" "newtab" >}}Dr. Kang Zhao{{< /staticref >}}. I am on the 2021/2022 academic job market.
 
-My research focuses on data analytics for social media. My current research not only analyzes users’ online behaviors in various types of social media, but also attempts to connect their online and offline behaviors. I cover both special-purpose social media (e.g., online health communities) as well as general-purpose social media (e.g., Twitter).
+My research focuses on data analytics for social media. My current research not only analyzes users’ online behaviors in various social media platforms, but also attempts to connect their online and offline behaviors. My research includes both special-purpose social media (e.g., online health communities) and general-purpose social media (e.g., Twitter).
 
 For more information, please refer to my {{< staticref "uploads/CV_Xiangyu_Wang.pdf" "newtab" >}}CV{{< /staticref >}}, {{< staticref "https://xiangyuwang.netlify.app/#publications" "newtab" >}}research{{< /staticref >}}, and {{< staticref "https://xiangyuwang.netlify.app/courses/" "newtab" >}}teaching{{< /staticref >}}.
